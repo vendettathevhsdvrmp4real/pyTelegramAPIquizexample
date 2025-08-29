@@ -1,0 +1,359 @@
+[
+  {
+    "question": "Как называлась первая письменность, появившаяся в Месопотамии?",
+    "options": [
+      {
+        "text": "Иероглифы",
+        "is_correct": false
+      },
+      {
+        "text": "Клинопись",
+        "is_correct": true
+      },
+      {
+        "text": "Финикийский алфавит",
+        "is_correct": false
+      },
+      {
+        "text": "Деванагари",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кто был первым императором Древнего Рима?",
+    "options": [
+      {
+        "text": "Юлий Цезарь",
+        "is_correct": false
+      },
+      {
+        "text": "Нерон",
+        "is_correct": false
+      },
+      {
+        "text": "Октавиан Август",
+        "is_correct": true
+      },
+      {
+        "text": "Марк Антоний",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Что стало причиной Троянской войны, согласно мифу?",
+    "options": [
+      {
+        "text": "Похищение Елены Прекрасной",
+        "is_correct": true
+      },
+      {
+        "text": "Завоевание новых земель",
+        "is_correct": false
+      },
+      {
+        "text": "Спор за торговые пути",
+        "is_correct": false
+      },
+      {
+        "text": "Месть богов",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Что такое «Жакерия»?",
+    "options": [
+      {
+        "text": "Восстание крестьян во Франции",
+        "is_correct": true
+      },
+      {
+        "text": "Крестовый поход",
+        "is_correct": false
+      },
+      {
+        "text": "Торговый союз городов",
+        "is_correct": false
+      },
+      {
+        "text": "Рыцарский орден",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кого называют «Отцом Истории»?",
+    "options": [
+      {
+        "text": "Фукидида",
+        "is_correct": false
+      },
+      {
+        "text": "Плутарха",
+        "is_correct": false
+      },
+      {
+        "text": "Геродота",
+        "is_correct": true
+      },
+      {
+        "text": "Сократа",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какой документ был подписан в Англии в 1215 году и ограничил власть короля?",
+    "options": [
+      {
+        "text": "Декларация независимости",
+        "is_correct": false
+      },
+      {
+        "text": "Билль о правах",
+        "is_correct": false
+      },
+      {
+        "text": "Великая хартия вольностей",
+        "is_correct": true
+      },
+      {
+        "text": "Акт о престолонаследии",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кто открыл Америку в 1492 году?",
+    "options": [
+      {
+        "text": "Васко да Гама",
+        "is_correct": false
+      },
+      {
+        "text": "Фернан Магеллан",
+        "is_correct": false
+      },
+      {
+        "text": "Джеймс Кук",
+        "is_correct": false
+      },
+      {
+        "text": "Христофор Колумб",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "question": "Как назывался период массовых репрессий при Иване IV Грозном?",
+    "options": [
+      {
+        "text": "Смута",
+        "is_correct": false
+      },
+      {
+        "text": "Земщина",
+        "is_correct": false
+      },
+      {
+        "text": "Опричнина",
+        "is_correct": true
+      },
+      {
+        "text": "Реформы",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Что было основной причиной Великой французской революции?",
+    "options": [
+      {
+        "text": "Восстание крестьян",
+        "is_correct": false
+      },
+      {
+        "text": "Социальное и экономическое неравенство",
+        "is_correct": true
+      },
+      {
+        "text": "Религиозные конфликты",
+        "is_correct": false
+      },
+      {
+        "text": "Вторжение иностранных войск",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "В каком году началась Первая мировая война?",
+    "options": [
+      {
+        "text": "1912",
+        "is_correct": false
+      },
+      {
+        "text": "1914",
+        "is_correct": true
+      },
+      {
+        "text": "1916",
+        "is_correct": false
+      },
+      {
+        "text": "1918",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кто был первым президентом СССР?",
+    "options": [
+      {
+        "text": "Ленин",
+        "is_correct": false
+      },
+      {
+        "text": "Сталин",
+        "is_correct": false
+      },
+      {
+        "text": "Брежнев",
+        "is_correct": false
+      },
+      {
+        "text": "Горбачев",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "question": "Когда закончилась Вторая мировая война?",
+    "options": [
+      {
+        "text": "22 июня 1945 года",
+        "is_correct": false
+      },
+      {
+        "text": "1 мая 1945 года",
+        "is_correct": false
+      },
+      {
+        "text": "2 сентября 1945 года",
+        "is_correct": true
+      },
+      {
+        "text": "9 мая 1945 года",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кто совершил первый полет в космос?",
+    "options": [
+      {
+        "text": "Нил Армстронг",
+        "is_correct": false
+      },
+      {
+        "text": "Юрий Гагарин",
+        "is_correct": true
+      },
+      {
+        "text": "Алексей Леонов",
+        "is_correct": false
+      },
+      {
+        "text": "Герман Титов",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "В каком году произошло Крещение Руси?",
+    "options": [
+      {
+        "text": "882",
+        "is_correct": false
+      },
+      {
+        "text": "988",
+        "is_correct": true
+      },
+      {
+        "text": "1054",
+        "is_correct": false
+      },
+      {
+        "text": "1240",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кто был последним российским императором?",
+    "options": [
+      {
+        "text": "Александр III",
+        "is_correct": false
+      },
+      {
+        "text": "Павел I",
+        "is_correct": false
+      },
+      {
+        "text": "Николай II",
+        "is_correct": true
+      },
+      {
+        "text": "Александр II",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Кого из знаменитых полководцев называют «Непобедимым»?",
+    "options": [
+      {
+        "text": "Ганнибал",
+        "is_correct": false
+      },
+      {
+        "text": "Александр Македонский",
+        "is_correct": true
+      },
+      {
+        "text": "Чингисхан",
+        "is_correct": false
+      },
+      {
+        "text": "Наполеон Бонапарт",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какая война длилась 100 лет?",
+    "options": [
+      {
+        "text": "Война Алой и Белой розы",
+        "is_correct": false
+      },
+      {
+        "text": "Тридцатилетняя война",
+        "is_correct": false
+      },
+      {
+        "text": "Столетняя война",
+        "is_correct": true
+      },
+      {
+        "text": "Семилетняя война",
+        "is_correct": false
+      }
+    ]
+  }
+]
