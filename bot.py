@@ -16,6 +16,8 @@ def handle_start(message):
     for topic_name in TOPICS.keys():
         text += f"- /{topic_name}\n"
     bot.reply_to(message, text)
+    bot.reply_to(message, "и ещё команда это - /game1")
+    bot.reply_to(message, "⚠️ Важно отметить, что я не человек а бот с Python")
 
 @bot.message_handler(commands=['help'])
 def handle_help(message):
