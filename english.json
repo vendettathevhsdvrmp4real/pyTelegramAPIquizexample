@@ -1,0 +1,254 @@
+{
+  "quizzes": [
+    {
+      "question": "What is the past tense of the verb 'go'?",
+      "options": [
+        "goed",
+        "went",
+        "gone",
+        "go'ed"
+      ],
+      "answer": "went"
+    },
+    {
+      "question": "Which of these is a synonym for 'happy'?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Joyful",
+        "Tired"
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question": "What is the plural form of 'mouse'?",
+      "options": [
+        "Mouses",
+        "Mice",
+        "Mouse",
+        "Mousen"
+      ],
+      "answer": "Mice"
+    },
+    {
+      "question": "Which word is a noun?",
+      "options": [
+        "Run",
+        "Quickly",
+        "Beautiful",
+        "Table"
+      ],
+      "answer": "Table"
+    },
+    {
+      "question": "What is the correct spelling?",
+      "options": [
+        "Recieve",
+        "Receive",
+        "Receve",
+        "Recieve"
+      ],
+      "answer": "Receive"
+    },
+    {
+      "question": "Which of these is an adjective?",
+      "options": [
+        "Sing",
+        "Loudly",
+        "Blue",
+        "Book"
+      ],
+      "answer": "Blue"
+    },
+    {
+      "question": "What is the past participle of 'eat'?",
+      "options": [
+        "Ate",
+        "Eaten",
+        "Eat'd",
+        "Eatted"
+      ],
+      "answer": "Eaten"
+    },
+    {
+      "question": "Fill in the blank: 'He ___ to the store yesterday.'",
+      "options": [
+        "go",
+        "goes",
+        "went",
+        "is going"
+      ],
+      "answer": "went"
+    },
+    {
+      "question": "Which word is a conjunction?",
+      "options": [
+        "And",
+        "Run",
+        "Big",
+        "Under"
+      ],
+      "answer": "And"
+    },
+    {
+      "question": "What is the comparative form of 'good'?",
+      "options": [
+        "Gooder",
+        "More good",
+        "Better",
+        "Best"
+      ],
+      "answer": "Better"
+    },
+    {
+      "question": "Which of these is a preposition?",
+      "options": [
+        "Quickly",
+        "Between",
+        "Listen",
+        "Happy"
+      ],
+      "answer": "Between"
+    },
+    {
+      "question": "What does 'it's' stand for?",
+      "options": [
+        "It is",
+        "It has",
+        "Both A and B",
+        "Its"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "options": [
+        "Childs",
+        "Children",
+        "Childen",
+        "Chil's"
+      ],
+      "answer": "Children"
+    },
+    {
+      "question": "Which of these is a verb?",
+      "options": [
+        "Fast",
+        "Slowly",
+        "Book",
+        "Read"
+      ],
+      "answer": "Read"
+    },
+    {
+      "question": "What is the superlative form of 'tall'?",
+      "options": [
+        "Taller",
+        "More tall",
+        "Tallest",
+        "Most tall"
+      ],
+      "answer": "Tallest"
+    },
+    {
+      "question": "What is the opposite of 'dark'?",
+      "options": [
+        "Black",
+        "Shadow",
+        "Bright",
+        "Night"
+      ],
+      "answer": "Bright"
+    },
+    {
+      "question": "Which sentence uses the correct punctuation?",
+      "options": [
+        "She said 'Hello!'",
+        "She said Hello!",
+        "She said: 'Hello'!",
+        "She said, 'Hello!'"
+      ],
+      "answer": "She said, 'Hello!'"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "options": [
+        "Car",
+        "Fast",
+        "Happily",
+        "Sleep"
+      ],
+      "answer": "Happily"
+    },
+    {
+      "question": "What is the simple future tense of 'run'?",
+      "options": [
+        "Ran",
+        "Running",
+        "Will run",
+        "Runned"
+      ],
+      "answer": "Will run"
+    },
+    {
+      "question": "Which of these is a pronoun?",
+      "options": [
+        "Dog",
+        "Jump",
+        "They",
+        "Quick"
+      ],
+      "answer": "They"
+    },
+    {
+      "question": "What is the correct spelling?",
+      "options": [
+        "Separate",
+        "Seperate",
+        "Separit",
+        "Separite"
+      ],
+      "answer": "Separate"
+    },
+    {
+      "question": "What is the past tense of 'sleep'?",
+      "options": [
+        "Slept",
+        "Sleeped",
+        "Slepted",
+        "Sleeping"
+      ],
+      "answer": "Slept"
+    },
+    {
+      "question": "Which of these is an article?",
+      "options": [
+        "The",
+        "On",
+        "But",
+        "Slow"
+      ],
+      "answer": "The"
+    },
+    {
+      "question": "What is the plural of 'person'?",
+      "options": [
+        "Persons",
+        "Peoples",
+        "People",
+        "Persones"
+      ],
+      "answer": "People"
+    },
+    {
+      "question": "What is a group of stars called?",
+      "options": [
+        "A galaxy",
+        "A planet",
+        "A comet",
+        "A moon"
+      ],
+      "answer": "A galaxy"
+    }
+  ]
+}
