@@ -6,7 +6,7 @@ TOPICS = {
     'мифы': 'myths.json',
     'история': 'historyquiz.json',
     'география': 'geographie.json',
-    'информатика часть 1': 'programming.json',
+    'информатика': 'programming.json',
     'геометрия': 'geometry.json',
     'Англ.Яз': 'english.json',
     'информатика2': 'programming2.json',
