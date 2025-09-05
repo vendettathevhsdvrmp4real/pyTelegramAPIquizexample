@@ -4,6 +4,7 @@ import random
 import telebot
 from logic2 import get_quiz_data, select_random_question, format_question_text, check_answer, TOPICS
 import os
+import time
 
 user_data = {}
 
@@ -68,6 +69,18 @@ def handle_answer(message):
         del user_data[chat_id]
     else:
         send_next_question(message)
+
+@bot.message_handler(commands=['game1'])
+def game1(message):
+    send_game1(message.chat.id)
+
+def send_game1(chat_id):
+    value = bot.send_dice(chat_id, emoji='🎲').dice.value
+    time.sleep(5)
+    bot.send_message(chat_id, 'Вам выпало...')
+    time.sleep(5)
+    bot.send_message(chat_id, f'Число {value}!')
+
 
 if __name__ == '__main__':
     bot.polling(none_stop=True)
